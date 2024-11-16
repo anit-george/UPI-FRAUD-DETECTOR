@@ -1,0 +1,14 @@
+body {
+  font-family: 'Roboto', sans-serif;  /* Custom font */
+  background-color: #f7f7f7;  /* Light gray background */
+}
+
+h1 {
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+button {
+  font-weight: 500;
+  padding: 10px 20px;
+}
